@@ -1,2 +1,6 @@
 add and remove user
 change roles
+
+create an avatar for user
+
+login and logout
